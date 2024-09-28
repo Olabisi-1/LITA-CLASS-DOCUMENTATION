@@ -10,7 +10,7 @@ Data Analysis class offers me the opportunity to explore a new field of career e
 The source of the training and achievement were through MS Excel (Basics of data Analysis, Excel Interface and Navigation, Data Entry in Excel, Excel Functions1,2&3, Reporting with Pivot Tables and Chart 1&2,) and Structured Query Language ( writing SQL Queries 1,2&3, SQL Clauses, SQL Operators SQL Views and SQL Union VS Union all.
 
 ###Tools Used
-- Microsoft Excel [Download HERE](Https://www.microslft.com)
+- Microsoft Excel [Download HERE](Https://www.microsoft.com)
   1. for Data Cleaning
   2.  For Analysis
   3.   For Data Visualization
